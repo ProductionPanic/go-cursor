@@ -1,3 +1,3 @@
 module github.com/ProductionPanic/go-cursor
 
-go 1.21.0
+go 1.23
